@@ -28,14 +28,15 @@ This paper reveals the dual nature of the assignment symbol "=" in digital compu
 ## Citation
 
 ```bibtex
-@article{wang2026assignment,
-  title={The Inalienability of Human Assignment Sovereignty and the Necessity of Physical Governance for AI},
-  author={Wang, Qing},
-  journal={OSF Preprints},
-  year={2026},
-  doi={10.17605/OSF.IO/95JSW},
-  url={https://doi.org/10.17605/OSF.IO/95JSW}
+@misc{wang2026inalienability,
+  author = {Wang, Qing},
+  title = {The Inalienability of Human Assignment Sovereignty and the Necessity of Physical Governance for AI: An AI Safety Governance Framework Grounded in the Analysis of the Assignment Symbol "="},
+  year = {2026},
+  howpublished = {OSF Registries},
+  note = {[Preregistration]},
+  doi = {10.17605/OSF.IO/95JSW},
+  url = {https://doi.org/10.17605/OSF.IO/95JSW}
 }
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 
 **AI Disclosure:** Core insights independently conceived by the author. Formalization and English drafting developed through iterative collaboration with AI language models. All intellectual content directed, evaluated, and finalized by the author.

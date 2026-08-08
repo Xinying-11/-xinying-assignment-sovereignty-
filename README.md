@@ -4,7 +4,7 @@
 
 [![OSF Preprint](https://img.shields.io/badge/OSF-Preprint-blue)](https://doi.org/10.17605/OSF.IO/95JSW)
 
-**Author:** Qing Wang (Pen Name: Xinying) | Independent Researcher | xinyingwwww@outlook.com
+**Author:** Qing Wang (Pen Name: Xinying) | Independent Researcher 
 
 ---
 

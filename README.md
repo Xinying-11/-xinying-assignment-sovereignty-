@@ -2,7 +2,7 @@
 
 > An AI Safety Governance Framework Grounded in the Analysis of the Assignment Symbol "="
 
-[![OSF Preprint](https://img.shields.io/badge/OSF-Preprint-blue)](https://doi.org/10.17605/OSF.IO/95JSW)
+[![OSF Preregistration](https://img.shields.io/badge/OSF-Preprint-blue)](https://doi.org/10.17605/OSF.IO/95JSW)
 
 **Author:** Qing Wang (Pen Name: Xinying) | Independent Researcher 
 
@@ -14,29 +14,11 @@ This paper reveals the dual nature of the assignment symbol "=" in digital compu
 
 **Core Conclusion:** Humans must be set as a non-assignable constant for AI systems; the ultimate trigger right of "=" must physically belong to humanity.
 
----
-
-## Languages
-
-| Language | Status | File |
-|:---|:---|:---|
-| **English** | OSF Preprint | [en/paper.md](en/paper.md) · [en/paper.pdf](en/paper.pdf) |
-| **中文** | Completed | [zh/paper.md](zh/paper.md) |
 
 ---
 
 ## Citation
 
-```bibtex
-@misc{wang2026inalienability,
-  author = {Wang, Qing},
-  title = {The Inalienability of Human Assignment Sovereignty and the Necessity of Physical Governance for AI: An AI Safety Governance Framework Grounded in the Analysis of the Assignment Symbol "="},
-  year = {2026},
-  howpublished = {OSF Registries},
-  note = {[Preregistration]},
-  doi = {10.17605/OSF.IO/95JSW},
-  url = {https://doi.org/10.17605/OSF.IO/95JSW}
-}
-
+Wang, Q. (2026). *The inalienability of human assignment sovereignty and the necessity of physical governance for AI: An AI safety governance framework grounded in the analysis of the assignment symbol "="* [Preregistration]. OSF Registries. https://doi.org/10.17605/OSF.IO/95JSW
 
 **AI Disclosure:** Core insights independently conceived by the author. Formalization and English drafting developed through iterative collaboration with AI language models. All intellectual content directed, evaluated, and finalized by the author.
